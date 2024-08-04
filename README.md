@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
     <h1>HTML_CSS_Mastery</h1>
     <img src="https://miro.medium.com/v2/resize:fit:960/1*OlyP02fRFe8pEkJgb6vGTQ.png" width="400">
 </div>
