@@ -11,25 +11,13 @@ Welcome to the **HTML_CSS_Mastery** repository! This is my self-driven journey t
 
 This repository contains the following projects as submodules:
 
-1. **Project 1**: [Tribute Page](https://github.com/anirudha-8/Tribute_Page.git) - This project is a tribute to Dr. A.P.J. Abdul Kalam, one of India's most revered scientists and the 11th President of India. Known as the "Missile Man of India," Dr. Kalam made significant contributions to India's space and missile programs.
+### 1. **Project 1**
 
-2. **Project 2**: [Project 2 Name](https://github.com/yourusername/project2) - Brief description of the project.
+[Tribute Page](https://github.com/anirudha-8/Tribute_Page.git) - This project is a tribute to Dr. A.P.J. Abdul Kalam, one of India's most revered scientists and the 11th President of India. Known as the "Missile Man of India," Dr. Kalam made significant contributions to India's space and missile programs.
 
-3. **Project 3**: [Project 3 Name](https://github.com/yourusername/project3) - Brief description of the project.
+### Link -> **[View Project 1](https://anirudha-8.github.io/Tribute_Page/)**
 
-4. **Project 4**: [Project 4 Name](https://github.com/yourusername/project4) - Brief description of the project.
-
-5. **Project 5**: [Project 5 Name](https://github.com/yourusername/project5) - Brief description of the project.
-
-6. **Project 6**: [Project 6 Name](https://github.com/yourusername/project6) - Brief description of the project.
-
-7. **Project 7**: [Project 7 Name](https://github.com/yourusername/project7) - Brief description of the project.
-
-8. **Project 8**: [Project 8 Name](https://github.com/yourusername/project8) - Brief description of the project.
-
-9. **Project 9**: [Project 9 Name](https://github.com/yourusername/project9) - Brief description of the project.
-
-10. **Project 10**: [Project 10 Name](https://github.com/yourusername/project10) - Brief description of the project.
+---
 
 ## Cloning the Repository
 
