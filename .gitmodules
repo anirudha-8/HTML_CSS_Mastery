@@ -1,3 +1,6 @@
 [submodule "Project - 1"]
 	path = Project - 1
 	url = https://github.com/anirudha-8/Tribute_Page.git
+[submodule "Project - 2"]
+	path = Project - 2
+	url = https://github.com/anirudha-8/Job_Application_Form.git
