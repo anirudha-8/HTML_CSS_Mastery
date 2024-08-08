@@ -25,6 +25,16 @@ This repository contains the following projects as submodules:
 
 ### Link -> **[View Project 2](https://anirudha-8.github.io/Job_Application_Form/)**
 
+---
+
+### 3. **Project 3**
+
+[Parallax WebPage](https://github.com/anirudha-8/Parallax_WebPage.git) - This project is a responsive parallax website created using only HTML and CSS. details for job applications.
+
+### Link -> **[View Project 3](https://anirudha-8.github.io/Parallax_WebPage/)**
+
+---
+
 ## Cloning the Repository
 
 To clone this repository along with all the submodules (projects), use the following command:
