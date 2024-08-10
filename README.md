@@ -35,6 +35,14 @@ This repository contains the following projects as submodules:
 
 ---
 
+### 4. **Project 4**
+
+[Landing Page](https://github.com/anirudha-8/Landing-Page.git) - This project is a fully responsive landing page created to showcase the portfolio of a Full Stack Developer.
+
+### Link -> **[View Project 4](https://anirudha-8.github.io/Landing-Page/)**
+
+---
+
 ## Cloning the Repository
 
 To clone this repository along with all the submodules (projects), use the following command:

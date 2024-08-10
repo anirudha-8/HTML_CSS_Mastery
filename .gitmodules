@@ -7,3 +7,6 @@
 [submodule "Project - 3"]
 	path = Project - 3
 	url = https://github.com/anirudha-8/Parallax_WebPage.git
+[submodule "Project - 4"]
+	path = Project - 4
+	url = https://github.com/anirudha-8/Landing-Page.git
