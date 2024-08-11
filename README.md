@@ -43,6 +43,14 @@ This repository contains the following projects as submodules:
 
 ---
 
+### 5. **Project 5**
+
+[Restaurant Website](https://github.com/anirudha-8/Restaurant-Website.git) - This project is a fully responsive landing page created to showcase the portfolio of a Full Stack Developer.
+
+### Link -> **[View Project 5](https://anirudha-8.github.io/Restaurant-Website/)**
+
+---
+
 ## Cloning the Repository
 
 To clone this repository along with all the submodules (projects), use the following command:

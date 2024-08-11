@@ -10,3 +10,6 @@
 [submodule "Project - 4"]
 	path = Project - 4
 	url = https://github.com/anirudha-8/Landing-Page.git
+[submodule "Project - 5"]
+	path = Project - 5
+	url = https://github.com/anirudha-8/Restaurant-Website.git
