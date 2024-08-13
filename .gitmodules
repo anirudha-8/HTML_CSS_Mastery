@@ -1,17 +1,17 @@
-[submodule "Project - 1"]
-	path = Project - 1
+[submodule "01-Project"]
+	path = 01-Project
 	url = https://github.com/anirudha-8/Tribute_Page.git
-[submodule "Project - 2"]
-	path = Project - 2
+[submodule "02-Project"]
+	path = 02-Project
 	url = https://github.com/anirudha-8/Job_Application_Form.git
-[submodule "Project - 3"]
-	path = Project - 3
+[submodule "03-Project"]
+	path = 03-Project
 	url = https://github.com/anirudha-8/Parallax_WebPage.git
-[submodule "Project - 4"]
-	path = Project - 4
+[submodule "04-Project"]
+	path = 04-Project
 	url = https://github.com/anirudha-8/Landing-Page.git
-[submodule "Project - 5"]
-	path = Project - 5
+[submodule "05-Project"]
+	path = 05-Project
 	url = https://github.com/anirudha-8/Restaurant-Website.git
 [submodule "06-Project"]
 	path = 06-Project
