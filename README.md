@@ -45,9 +45,17 @@ This repository contains the following projects as submodules:
 
 ### 5. **Project 5**
 
-[Restaurant Website](https://github.com/anirudha-8/Restaurant-Website.git) - This project is a fully responsive landing page created to showcase the portfolio of a Full Stack Developer.
+[Restaurant Website](https://github.com/anirudha-8/Restaurant-Website.git) - This project is a fully responsive restaurant website designed to showcase a food company's menu, services, and unique offerings.
 
 ### Link -> **[View Project 5](https://anirudha-8.github.io/Restaurant-Website/)**
+
+---
+
+### 6. **Project 6**
+
+[Survey Form](https://github.com/anirudha-8/survey-form.git) - The Survey Form project is designed to collect user input through various fields, including text, email, number, dropdown, radio buttons, checkboxes, and a textarea for additional comments. The form is fully validated using HTML5 validation features to ensure proper input from users.
+
+### Link -> **[View Project 6](https://anirudha-8.github.io/survey-form/)**
 
 ---
 
