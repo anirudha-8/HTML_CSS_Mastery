@@ -59,6 +59,14 @@ This repository contains the following projects as submodules:
 
 ---
 
+### 7. **Project 7**
+
+[Tribute Page](https://github.com/anirudha-8/tribute-page.git) - The Survey Form project is designed to collect user input through various fields, including text, email, number, dropdown, radio buttons, checkboxes, and a textarea for additional comments. The form is fully validated using HTML5 validation features to ensure proper input from users.
+
+### Link -> **[View Project 7](https://anirudha-8.github.io/tribute-page/)**
+
+---
+
 ## Cloning the Repository
 
 To clone this repository along with all the submodules (projects), use the following command:
