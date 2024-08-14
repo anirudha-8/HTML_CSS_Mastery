@@ -19,3 +19,6 @@
 [submodule "07-Project"]
 	path = 07-Project
 	url = https://github.com/anirudha-8/survey-form.git
+[submodule "08-Project"]
+	path = 08-Project
+	url = https://github.com/anirudha-8/tribute-page.git

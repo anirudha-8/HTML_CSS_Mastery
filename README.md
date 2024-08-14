@@ -67,6 +67,14 @@ This repository contains the following projects as submodules:
 
 ---
 
+### 8. **Project 8**
+
+[Tribute Page](https://github.com/anirudha-8/tribute-page.git) - The Tribute Page project is designed to honor a person or subject of significance. It includes a title, an image with a caption, descriptive information, and a link to additional resources. The page is styled to be responsive and visually engaging.
+
+### Link -> **[View Project 8](https://anirudha-8.github.io/tribute-page/)**
+
+---
+
 ## Cloning the Repository
 
 To clone this repository along with all the submodules (projects), use the following command:
