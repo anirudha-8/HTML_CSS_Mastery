@@ -13,3 +13,6 @@
 [submodule "05-Project"]
 	path = 05-Project
 	url = https://github.com/anirudha-8/Restaurant-Website.git
+[submodule "06-Project"]
+	path = 06-Project
+	url = https://github.com/anirudha-8/myTunes.git

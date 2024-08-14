@@ -51,6 +51,14 @@ This repository contains the following projects as submodules:
 
 ---
 
+### 6. **Project 6**
+
+[myTunes Music Website](https://github.com/anirudha-8/myTunes.git) - This project is a fully responsive music website designed to showcase music collections, offer streaming options, and promote exclusive content.
+
+### Link -> **[View Project 6](https://anirudha-8.github.io/myTunes/)**
+
+---
+
 ## Cloning the Repository
 
 To clone this repository along with all the submodules (projects), use the following command:
