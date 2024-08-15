@@ -75,6 +75,14 @@ This repository contains the following projects as submodules:
 
 ---
 
+### 9. **Project 9**
+
+[Technical Documentation](https://github.com/anirudha-8/technical-documentation.git) - The Technical Documentation Page project is designed to present information in a structured and easily navigable format. It includes a main content area, sections with headers, a sticky navigation bar, and responsive design features.
+
+### Link -> **[View Project 9](https://anirudha-8.github.io/technical-documentation/)**
+
+---
+
 ## Cloning the Repository
 
 To clone this repository along with all the submodules (projects), use the following command:

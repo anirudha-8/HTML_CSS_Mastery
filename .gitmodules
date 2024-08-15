@@ -22,3 +22,6 @@
 [submodule "08-Project"]
 	path = 08-Project
 	url = https://github.com/anirudha-8/tribute-page.git
+[submodule "09-Project"]
+	path = 09-Project
+	url = https://github.com/anirudha-8/technical-documentation.git
