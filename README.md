@@ -83,6 +83,14 @@ This repository contains the following projects as submodules:
 
 ---
 
+### 10. **Project 10**
+
+[Product Landing Page](https://github.com/anirudha-8/product-landing-page.git) - Welcome to the Product Landing Page project, part of the Responsive Web Design certification on freeCodeCamp! This project will help you showcase your HTML, CSS, and responsive design skills by creating a landing page that can be a great addition to your portfolio.
+
+### Link -> **[View Project 10](https://anirudha-8.github.io/product-landing-page/)**
+
+---
+
 ## Cloning the Repository
 
 To clone this repository along with all the submodules (projects), use the following command:
