@@ -34,3 +34,6 @@
 [submodule "12-Project"]
 	path = 12-Project
 	url = https://github.com/anirudha-8/coffee-landing-page.git
+[submodule "13-Project"]
+	path = 13-Project
+	url = https://github.com/anirudha-8/kitty-food-landing-page.git
