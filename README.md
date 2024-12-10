@@ -7,7 +7,7 @@
 
 Welcome to the **HTML_CSS_Mastery** repository! This is my self-driven journey to master HTML and CSS by building 10 responsive projects. Each project in this repository represents a step forward in my learning process, tackling different aspects of web development, from layout design to advanced responsive techniques.
 
-## Projects
+## Project
 
 This repository contains the following projects as submodules:
 
